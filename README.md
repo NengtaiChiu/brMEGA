@@ -12,6 +12,7 @@ the labels are included in the folder "data_label".<br/>
  ## NLEM method
    "Step2_algo_brMEGA_no_prediction.m" : using the brMEGA method to remove cardiogenic artifact on the whole EEG signal.<br/>
    "Step2_algo_brMEGA_with_prediction.m" : using the brMEGA method to remove cardiogenic artifact only on  epochs that are predicted containing cardiogenic artifacts.<br/>
-# stage 3:  
+# stage 3:  evaluation 
+  ## 
   
   
