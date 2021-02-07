@@ -2,7 +2,7 @@ this is a package for the algorithm brMEGA, a method to remove cardiogenic artif
 the data is in the link inside the folder "database"(you need to download it from the provided link in dropbox).
 the labels are included in the folder "data_label".
 # stage 1
-  "step_1_algo_training.m": training the SVM model for detecting cardiogenic artifacts in EEG signal.
+  "step_1_algo_training.m": training the SVM model for detecting cardiogenic artifacts in EEG signal.{/n}
   "step_1_algo_prediction.m": predicting Epochs with/without cardiogenic artifacts in EEG signal.
   
 # stage 2: removing the cardiogenic artifact
