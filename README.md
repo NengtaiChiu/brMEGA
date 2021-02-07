@@ -13,6 +13,8 @@ the labels are included in the folder "data_label".<br/>
    "Step2_algo_brMEGA_no_prediction.m" : using the brMEGA method to remove cardiogenic artifact on the whole EEG signal.<br/>
    "Step2_algo_brMEGA_with_prediction.m" : using the brMEGA method to remove cardiogenic artifact only on  epochs that are predicted containing cardiogenic artifacts.<br/>
 # stage 3:  evaluation 
-  ## 
+  ## evaluation code: 
+  "aR_sC_combine.m": evaluation code for comparing EAS and brMEGA.<br/>
+  use "Step3_evaluation_brMEGA_with_prediction_for_aR_sC.m" and "Step3_evaluation_EAS_with_prediction_for_aR_sC.m" to create dataset for evaluation.
   
   
