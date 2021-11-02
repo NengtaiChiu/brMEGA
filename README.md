@@ -21,6 +21,7 @@ the labels are included in the folder "data_label".<br/>
 
 
   Neng-Tai Chiu, Stephanie Huwiler, M. Laura Ferster, Walter Karlen, Hau-Tieng Wu*, Caroline Lustenberger* (2021). Get rid of the beat in mobile EEG applications: A framework towards automated cardiogenic artifact detection and removal in single-channel EEG. Biomedical Signal Processing and Control: https://doi.org/10.1016/j.bspc.2021.103220<br/>
+  
    Note: * Contributed equally to work.<br/>
   
   
