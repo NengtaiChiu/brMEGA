@@ -5,7 +5,7 @@ function [xd] = artifact_remove_Hae_Jeong(X,peakloc,sampling_rate)
 %%  process signal for every 2 hours
 len  = floor(length(X)/sampling_rate/60/60);
 if len <= 1
-    [xd] = EAS_method(I, peakloc, sampling_rate,0.3);
+    [xd] = EAS_method(X, peakloc, sampling_rate,0.3);
 else
     xd = [];
     for i = 1:len-1
